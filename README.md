@@ -1,0 +1,2 @@
+# mandos
+Persiko detroskomas
